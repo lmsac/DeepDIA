@@ -159,7 +159,7 @@ python {PATH_TO_CODE}/deeprt/py/train.py
 Follow the instruction described in [*DeepDIA Demo: Training a New Model for Detectability Prediction*](docs/Demo_Training_Detectability.md) in the `docs` folder.
 
 ## Publications
-Yang Yi, Xiaohui Liu, Chengpin Shen, Yu Lin, Pengyuan Yang and Liang Qiao. In silico spectral libraries by deep learning facilitate data-independent acquisition proteomics, Submitted.
+Yang, Y., Liu, X., Shen, C., Lin, Y., Yang, P., Qiao, L. In silico spectral libraries by deep learning facilitate data-independent acquisition proteomics. *Nat Commun* **11**, 146 (2020). https://doi.org/10.1038/s41467-019-13866-z.
 
 ## License
 DeepDIA (the main Python code) is distributed under a BSD license. See the LICENSE file for details.
